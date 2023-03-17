@@ -1,6 +1,6 @@
-## Hi there, my name is Mozart Rafi Kurniawan 👋
+## Hi there, my name is Mozart Rafi Kurniawan Tampubolon 👋
 
-I'm not a developer but I enjoy contributing to some programming projects that I'm interested in and like, but what I do is not far from improvising existing ones made by others. That's it, and thank you.
+I'm not a developer but I enjoy contributing to some programming projects that I'm interested in and like, but what I do is not far from improvising existing ones made by others. That's all, and thank you.
 
 ## Have a look to my widgets ⬇️
 
